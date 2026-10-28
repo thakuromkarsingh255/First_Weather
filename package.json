@@ -1,0 +1,12 @@
+{
+  "name": "omkar1",
+  "version": "1.0.0",
+  "description": "Its an amazing package",
+  "license": "ISC",
+  "author": "Omkar",
+  "type": "commonjs",
+  "main": "nodePractice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
